@@ -74,6 +74,7 @@ bool checkTeapot()
 
 int main(int argc, char *argv[])
 {
+    //    qDebug("hello brdf explorer...");
     QApplication app(argc, argv);
     setlocale(LC_NUMERIC,"C");
 
